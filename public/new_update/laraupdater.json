@@ -1,0 +1,5 @@
+{
+    "version": "1.5.0",
+    "archive": "RELEASE-1.5.zip",
+    "description": "[Added] Url option in FCM notification<br>[Added] App update Option<br>[Added] Popup offer image (Show popup image at app home screen)<br>[Added] FCM push notification (Set url redirection option)<br>[Added] Received FCM push notification without login (App)<br>[Improved] Major validation (App and panel)<br>[Fixed] Various bugs and made general improvements"
+}
